@@ -1,0 +1,4 @@
+repository "GAMEKINHDI/GAMEKINHDI@18968317721038@cloud"
+  path "/"
+    br "/main"
+    co "/main"
